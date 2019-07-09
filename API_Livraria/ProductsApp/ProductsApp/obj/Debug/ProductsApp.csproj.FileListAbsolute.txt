@@ -1,0 +1,141 @@
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\638228\Desktop\Atividade 2_Atual\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\natal\Desktop\API_Livraria-20190708T010922Z-001\API_Livraria\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb

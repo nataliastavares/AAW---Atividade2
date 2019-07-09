@@ -1,0 +1,14 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+LivrariaVirtualApp.csproj.CopyComplete - https://onedrive.live.com/?cid=14ed6328c4bb1f96&id=14ED6328C4BB1F96%212359&action=Download
+
+ProductsApp.csproj.CopyComplete - https://onedrive.live.com/?cid=14ed6328c4bb1f96&id=14ED6328C4BB1F96%212353&action=Download
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=14ed6328c4bb1f96&id=14ED6328C4BB1F96%212096&action=Download
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=14ed6328c4bb1f96&id=14ED6328C4BB1F96%212094&action=Download
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=14ed6328c4bb1f96&id=14ED6328C4BB1F96%212093&action=Download
+
+
+
